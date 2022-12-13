@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maswiry
+- 👋 Hi, I’m @maswiryy
 - 👀 I’m interested in educational physics and art
 - 🌱 I’m currently learning python coding about computational physics and numerical methods 
 - 💞️ I’m looking to collaborate on computational physics (im newb xd)
